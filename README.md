@@ -20,7 +20,7 @@ It turns reading into a “reel-like” experience—quick, compelling, and habi
 
 ---
 
-## 2. Bite-Sized Audio Summaries  
+## 1.2 Bite-Sized Audio Summaries  
 **AI-generated, audio-first summaries that spark curiosity:**
 
 - Condenses key ideas into **3–5 minute** narrations.  
@@ -31,7 +31,7 @@ It turns reading into a “reel-like” experience—quick, compelling, and habi
 
 ---
 
-## 3. Tailored Audiobook Experiences  
+## 2. Tailored Audiobook Experiences  
 **Voice personalization, not voice generation:**
 
 - Curated voice options, such as:  
